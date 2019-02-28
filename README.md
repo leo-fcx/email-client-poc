@@ -31,6 +31,6 @@ Currently, the order in chaining is being applied according how items/riles were
 
 Following resources are available:
 - Class Diagram (`email-client-class-diagram.png` file) which is show above, can be found in: `/deliverables` folder from the project.
-- _EmailClient.jar_, which is located in `/deliverables` folder from the project, is going to run some Use Cases in order to show how rules are being evaluated on every new received email.
+- [_EmailClient.jar_](https://github.com/leo-fcx/email-client-poc/raw/master/deliverables/EmailClient.jar), which is located in `/deliverables` folder from the project, is going to run some Use Cases in order to show how rules are being evaluated on every new received email.
 - _EmailClientRunner_ class, that is the entry point class when we want to run the App from our IDE in order to see same results as the JAR file.
 - _EmailClientTest_ class. Alternatively, we can run this Test Class to run some Unit Tests that were created for the EmailClient Class.  
