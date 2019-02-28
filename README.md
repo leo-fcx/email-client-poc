@@ -1,5 +1,7 @@
 # POC: Email Client
 
+GitHub repository URL for this project is: https://github.com/leo-fcx/email-client-poc
+
 ### 1. Class Diagram
 
 ![alt tag](https://raw.githubusercontent.com/leo-fcx/email-client-poc/master/deliverables/email-client-class-diagram.png)
