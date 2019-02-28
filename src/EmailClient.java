@@ -1,6 +1,5 @@
 import behaviors.Behavior;
 import behaviors.MoveBehavior;
-import com.google.common.base.Strings;
 import content.EmailContent;
 import content.FolderContent;
 import rules.EmailRule;
@@ -78,17 +77,16 @@ public class EmailClient {
             content.print();
         }
 
-        System.out.print((char) 27 + "[30m");
+        System.out.print((char) 27 + "[39m");
         System.out.println("");
         System.out.println("=========================================================================================");
         System.out.println("");
     }
 
     public void printTitle(String description) {
-        System.out.print((char) 27 + "[30m");
+        System.out.print((char) 27 + "[39m");
         System.out.println("");
         System.out.println(description);
-        System.out.println(Strings.repeat("-", description.length()));
         System.out.println("");
     }
 
