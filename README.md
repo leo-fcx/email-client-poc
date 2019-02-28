@@ -2,7 +2,7 @@
 
 ### 1. Class Diagram
 
-
+![alt tag](https://raw.githubusercontent.com/leo-fcx/email-client-poc/master/deliverables/email-client-class-diagram.png)
 
 ### 2. On Design Patterns implementations
 
